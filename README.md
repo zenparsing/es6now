@@ -1,3 +1,8 @@
+## INACTIVE ##
+
+This repository is no longer actively maintained.  Current work on this technology has
+moved to [esdown](https://github.com/zenparsing/esdown).
+
 ## Overview ##
 
 **es6now** is an ES6 to ES5 compiler, written in ES6.  It will allow you to
